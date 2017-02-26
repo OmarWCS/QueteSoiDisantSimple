@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QueteSimpleUI</string>
+    <string name="welcome">Welcome to the Wild Code School</string>
+    <string name="checkBoxAdhesion">Oui, je souhaite devenir un wilder</string>
+    <string name="firstName">First Name</string>
+    <string name="name">Name</string>
+    <string name="validateButton">Valider</string>
+    <string name="congrats">Félicitation</string>
+    <string name="toast">Tu dois renseigner le nom et le prénom !</string>
+</resources>
